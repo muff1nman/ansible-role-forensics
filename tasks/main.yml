@@ -1,0 +1,4 @@
+---
+- name: Install dcfldd and squash tools
+  package:
+    name: dcfldd,squashfs-tools
